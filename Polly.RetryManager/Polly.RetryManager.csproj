@@ -4,6 +4,10 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Michal Tichý</Authors>
     <Description>Small set of helpers to build logic for retry management.</Description>
+    <PackageProjectUrl>https://github.com/MichalTichy/Polly.RetryManager</PackageProjectUrl>
+    <RepositoryType>Git</RepositoryType>
+    <RepositoryUrl>https://github.com/MichalTichy/Polly.RetryManager</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
