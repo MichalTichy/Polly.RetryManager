@@ -8,6 +8,7 @@
     <RepositoryType>Git</RepositoryType>
     <RepositoryUrl>https://github.com/MichalTichy/Polly.RetryManager</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>RetryManager</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
